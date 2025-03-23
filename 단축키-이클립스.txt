@@ -1,0 +1,8 @@
+이클립스 단축키
+
+코드 정렬 : Ctrl + Shfit + F
+메서드/클래스 주석 템플릿 생성 :   Alt + Shift + J
+클래스 생성 :  Alt + Shift + N, C
+컴파일/실행 (Run) : Ctrl + F11
+print문 생성 (System.out.println();) : sysout 타이핑, Enter
+main 메서드 생성 : main 타이핑, Ctrl + Space 
